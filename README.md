@@ -1,3 +1,1 @@
-# DailyCodingProblem
-Me trying to solve the daily coding problems. 
-https://www.dailycodingproblem.com/
+(moved to collective repo: https://github.com/omaus/CodingProblems)
